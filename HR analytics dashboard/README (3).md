@@ -1,20 +1,38 @@
-sales analysis and visualization plays a crucial role in analyzing and presenting sales data effectively. It involves creating visually appealing and informative representations of sales performance to gain valuable insights and make data-driven decisions. Here are a few key points about sales visualization in Power BI:
+**Email**: Jyoti.thakur0720@gmail.com
 
-1. Visualizing Sales Metrics: Power BI enables you to showcase various sales metrics, such as total revenue, sales by region, sales by product category, and sales trends over time. Use charts, graphs, and tables to present these metrics in an easily understandable format.
+**Website**: https://jyoti-1233.github.io/
 
-2. Interactive Dashboards: Create interactive dashboards that allow users to explore sales data dynamically. Add filters, slicers, and drill-through functionality to enable users to slice and dice the data, filter it based on specific criteria, and drill down into detailed information as needed.
+**LinkedIn**: https://www.linkedin.com/in/jyoti-thakur-24b6332ab/
 
-3. Geographic Visualization: Use Power BI's mapping capabilities to visualize sales data geographically. Display sales by region, country, or city on a map to identify sales hotspots, target areas for improvement, and analyze regional performance.
+♤ I'm excited to share with you my latest project, a comprehensive 3-page dashboard covering all the details about hashtag#amazon Services hashtag#salesanalysis created using hashtag#powerbi !
 
-4. Comparative Analysis: Compare sales performance across different time periods, regions, or products using visualizations like line charts, bar charts, or stacked charts. Identify trends, patterns, and outliers to uncover valuable insights and opportunities for optimization.
+● First page: (Dashboard hashtag#overview) of total sales, number of products sold, total units, top selling cities, and the status of each product.
 
-5. Forecasting and Goal Tracking: Leverage Power BI's forecasting capabilities to predict future sales trends based on historical data. Set sales targets and track progress visually using gauges, KPIs, or scorecards, helping teams stay focused and aligned with business goals.
+● Second page: (Dashboard hashtag#products) it is specialized for listing products. When choosing any product, the types related to this product appear in detail.
 
-6. Drill-Down Hierarchies: Utilize drill-down hierarchies to provide users with the ability to explore sales data at different levels of granularity. Start with high-level summaries and allow users to drill down into more detailed information, such as sales by month, week, or day.
+● Third page: (hashtag#dashboard Product View) is specialized for a detailed and analytical display of each selected product in terms of total sales, total hashtag#units, total returned products (lost), as well as total hashtag#ratings for each product separately.
 
-7. Custom Visuals and Advanced Analytics: Extend Power BI's capabilities by integrating custom visuals and leveraging advanced analytics features. Explore additional visualizations, statistical models, or machine learning algorithms to gain deeper insights into sales patterns, customer behavior, or product performance.
+◇ Purpose of analyze sales data to identify trends, hashtag#best-selling products, and hashtag#revenue metrics to make business decisions.
 
-By effectively visualizing sales data in Power BI, stakeholders can gain a clear understanding of sales performance, identify trends and patterns, and make informed decisions to optimize sales strategies and drive business growth.
+☆ (hashtag#kpis) key performance indicators:-
+
+□ Total sales.
+
+□ Total no. of units.
+
+□ Total products.
+
+□ Total returned (lost) products.
+
+□ Total sales by country and product.
+
+□ Average unit price by product.
+
+Dashboard Link - https://lnkd.in/eTRFbc4D
+
+<img width="656" alt="image" src="https://github.com/jyoti-1233/Power_BI_Project/assets/131963970/33acc9e5-bd62-469e-a6b9-0a4015baa3bc">
+<img width="599" alt="image" src="https://github.com/jyoti-1233/Power_BI_Project/assets/131963970/28aa196a-2966-4720-94d7-acfe20def2d5">
+<img width="608" alt="image" src="https://github.com/jyoti-1233/Power_BI_Project/assets/131963970/adfb6791-3b7e-454d-bc62-5cc827dad73b">
 
 
 
