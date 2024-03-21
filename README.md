@@ -9,7 +9,7 @@ Dashboard Link - https://lnkd.in/eTRFbc4D
 
 
 # 2. Maven Market Dashboard # 
-Dashboard Link - 
+Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNTQ2OTA0MGEtMDk5Zi00MzZiLWI1MmYtNGFhNzg5YjkwZTgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 <img width="400" alt="image" src="https://github.com/jyoti-1233/Power_BI_Projects/assets/131963970/8a56238e-c84d-44a5-aa35-3f08cc8fd77c">
 
 
