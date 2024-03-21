@@ -13,10 +13,14 @@ Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNTQ2OTA0MGEtMDk5Zi00MzZi
 
 <img width="400" alt="image" src="https://github.com/jyoti-1233/Power_BI_Projects/assets/131963970/8a56238e-c84d-44a5-aa35-3f08cc8fd77c">
 
-# 2. Super_Strore_Sell_DashBoard # 
+# 3. Super_Strore_Sell_DashBoard # 
 Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiZTRjMjAzZjAtYzFjOS00MWE4LWJjNTktZmIxMjAxYmViZjNlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 <img width="400" alt="image" src="https://github.com/jyoti-1233/Power_BI_Projects/assets/131963970/cdf76dae-efa0-4d4c-b8d9-16f6a5453602">
 
+# 4. HR_Analysis_Emp_Attrition_Dashboard # 
 
+Dashboard_Link - https://app.powerbi.com/view?r=eyJrIjoiY2FlZTM2MGQtNzM5My00YmE5LTk3OGMtNGM4NDY2YTdlMjFkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+<img width="400" alt="image" src="https://github.com/jyoti-1233/Power_BI_Projects/assets/131963970/fa78bee6-77e7-4621-bd86-2c88fd3cecca">
 
