@@ -5,6 +5,7 @@
 **LinkedIn**: https://www.linkedin.com/in/jyoti-thakur-24b6332ab/
 
 **About Project**
+
 ♤ I'm excited to share with you my latest project, a comprehensive 3-page dashboard covering all the details about hashtag#amazon Services hashtag#salesanalysis created using hashtag#powerbi !
 
 ● First page: (Dashboard hashtag#overview) of total sales, number of products sold, total units, top selling cities, and the status of each product.
