@@ -24,7 +24,7 @@ Dashboard_Link - https://app.powerbi.com/view?r=eyJrIjoiY2FlZTM2MGQtNzM5My00YmE5
 
 <img width="400" alt="image" src="https://github.com/jyoti-1233/Power_BI_Projects/assets/131963970/fa78bee6-77e7-4621-bd86-2c88fd3cecca">
 
-# 4. HR_Dashboard #  
+# 5. HR_Dashboard #  
 
 Dashboard link = https://app.powerbi.com/view?r=eyJrIjoiNDIyNWZjMmEtNTMzOS00NjlhLTk1YmItMWY5MDMxODAzYmE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
