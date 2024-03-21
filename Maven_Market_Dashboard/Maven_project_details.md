@@ -4,36 +4,24 @@
 
 **LinkedIn**: https://www.linkedin.com/in/jyoti-thakur-24b6332ab/
 
-♤ I'm excited to share with you my latest project, a comprehensive 3-page dashboard covering all the details about hashtag#amazon Services hashtag#salesanalysis created using hashtag#powerbi !
 
-● First page: (Dashboard hashtag#overview) of total sales, number of products sold, total units, top selling cities, and the status of each product.
+📊 I am so excited to share the Maven Market Retail Dashboard I've crafted using Power BI! 🚀
 
-● Second page: (Dashboard hashtag#products) it is specialized for listing products. When choosing any product, the types related to this product appear in detail.
+This data set is provided by Maven Analytics as a bonus project for "Microsoft Power BI Dekstop for Business Intelligence (2023)" Course on Udemy. In this project we have the freedom to design and decide what to visualize in the dashboard. These are general key points from the dahsboard:
 
-● Third page: (hashtag#dashboard Product View) is specialized for a detailed and analytical display of each selected product in terms of total sales, total hashtag#units, total returned products (lost), as well as total hashtag#ratings for each product separately.
-
-◇ Purpose of analyze sales data to identify trends, hashtag#best-selling products, and hashtag#revenue metrics to make business decisions.
-
-☆ (hashtag#kpis) key performance indicators:-
-
-□ Total sales.
-
-□ Total no. of units.
-
-□ Total products.
-
-□ Total returned (lost) products.
-
-□ Total sales by country and product.
-
-□ Average unit price by product.
-
-Dashboard Link - https://lnkd.in/eTRFbc4D
-
-<img width="656" alt="image" src="https://github.com/jyoti-1233/Power_BI_Project/assets/131963970/33acc9e5-bd62-469e-a6b9-0a4015baa3bc">
-<img width="599" alt="image" src="https://github.com/jyoti-1233/Power_BI_Project/assets/131963970/28aa196a-2966-4720-94d7-acfe20def2d5">
-<img width="608" alt="image" src="https://github.com/jyoti-1233/Power_BI_Project/assets/131963970/adfb6791-3b7e-454d-bc62-5cc827dad73b">
+🏠 General Report :
+1. Dive into the latest month's KPIs
+2. Track monthly revenue by country and keep an eye on total revenue vs. target for the year
+3. Explore performance by Product Brand
+4. Show distribution of transactions by country
+5. Provide a dynamic map showcasing transactions across cities.
 
 
+🚀 This comprehensive dashboard provides a 360-degree view of Maven Market's retail performance, enabling data-driven decisions and strategic planning. 📈💡
 
+For the next post I would explain each pages of the dashboard and also the process of making it. Stay Tuned 😊
+
+Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNTQ2OTA0MGEtMDk5Zi00MzZiLWI1MmYtNGFhNzg5YjkwZTgxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+<img width="600" alt="image" src="https://github.com/jyoti-1233/Power_BI_Projects/assets/131963970/ad6cd216-a6c1-47d1-ac44-daa8cc79a557">
 
