@@ -1,3 +1,4 @@
+Hello, All
 ♤ I'm excited to share with you my latest project, a comprehensive 3-page dashboard covering all the details about hashtag#amazon Services hashtag#salesanalysis created using hashtag#powerbi !
 
 ● First page: (Dashboard hashtag#overview) of total sales, number of products sold, total units, top selling cities, and the status of each product.
@@ -15,3 +16,5 @@
 □ Total returned (lost) products.
 □ Total sales by country and product.
 □ Average unit price by product.
+
+Dashboard Link - https://lnkd.in/eTRFbc4D
