@@ -28,11 +28,6 @@ Data exctraction ➡ data transformation ➡ data loading ➡ DAX implementation
 💡 Maharastra is the state where maximum sales have been achieved.
 💡 Harivansh is a prime customer .
 
-📈 HR ANALYTICS 
-💡 Individuals aged between 26 and 35 demonstrate the highest attrition rates within the organisation.
-💡 Occupation within the scientific and laboratory sectors exhibits the highest attrition levels .
-💡 Attrition rates is higher in employees with a tenure of 1 to 2 years .
-💡 Also employees earning below the average salary of 6.5k are more likely to leave the company. 
 
 🕯 TAKEAWAYS-Created connections ,joins new tables,calculations to manipulate data and enable user driven parameters for visualisations ,used 
 different types of customised visualisations (bar charrt ,pie charts,donut charts,clustered charts,scatter chart, line chart,map,slicers,etc)
